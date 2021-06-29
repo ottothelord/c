@@ -14,7 +14,7 @@ int main () {
 
 
         std::cout<<std::tolower(n[i], loc);
-        std::cout<<"Oaaa";
+
       }
 
 
