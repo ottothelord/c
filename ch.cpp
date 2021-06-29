@@ -2,6 +2,6 @@
 
 int main () {
 
-    std::cout<<"aaa";
+    std::cout<<"xxx";
 
 }
