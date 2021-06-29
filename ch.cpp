@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #include <iostream>
 #include <locale>
 #include <string>
@@ -22,4 +20,3 @@ int main () {
 
 
 }
->>>>>>> 232ca8226242956c6c56251275ec9074a0f12c95
