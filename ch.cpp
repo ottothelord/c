@@ -2,6 +2,6 @@
 
 int main () {
 
-    std::cout<<"Otto";
+    std::cout<<"Otto on paras";
 
 }
